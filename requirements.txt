@@ -47,7 +47,7 @@ ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
 ipympl>=0.8.2
 # Python: ipycanvas library for Jupyter notebooks (optional)
-ipycanvas orjson
+ipycanvas
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
