@@ -8,8 +8,6 @@ jupyterlite-pyodide-kernel
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel
-jupyterlite-xeus
-
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
