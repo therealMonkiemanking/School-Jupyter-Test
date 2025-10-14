@@ -13,7 +13,6 @@ IPolyglot
 GraalVM
 Ganymede
 JShell
-Apache Maven Resolver
 jupyter-nodejs
 nelu-kernelu
 IJavascript
