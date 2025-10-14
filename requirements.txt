@@ -8,14 +8,7 @@ jupyterlite-pyodide-kernel
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel
-IPolyglot
-GraalVM
-Ganymede
-JShell
-jupyter-nodejs
-nelu-kernelu
 IJavascript
-SoS
 tslab
 ITypeScript
 jupyterlite-xeus
