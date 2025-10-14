@@ -8,9 +8,6 @@ jupyterlite-pyodide-kernel
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel
-IJavascript
-tslab
-ITypeScript
 jupyterlite-xeus
 
 # Language support (optional)
