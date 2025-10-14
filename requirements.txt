@@ -3,12 +3,24 @@ jupyterlite-core==0.6.4
 jupyterlab~=4.4.5
 notebook~=7.4.5
 
-
 # Python kernel (optional)
-jupyterlite-pyodide-kernel==0.6.1
+jupyterlite-pyodide-kernel
+jupyterlite_ruby_kernel
 
 # JavaScript kernel (optional)
-jupyterlite-javascript-kernel==0.3.0
+jupyterlite-javascript-kernel
+IPolyglot
+GraalVM
+Ganymede
+JShell
+Apache Maven Resolver
+jupyter-nodejs
+nelu-kernelu
+IJavascript
+SoS
+tslab
+ITypeScript
+jupyterlite-xeus
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
